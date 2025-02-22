@@ -127,7 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="greater-less-than.cpp" />
     <ClCompile Include="learn-cpp-programming.cpp" />
   </ItemGroup>
   <ItemGroup>

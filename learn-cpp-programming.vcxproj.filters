@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="greater-less-than.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="learn-cpp-programming.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
