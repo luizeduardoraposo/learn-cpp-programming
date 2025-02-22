@@ -3,6 +3,7 @@
 int greaterOrless()
 {
 	int num1, num2;
+	printf("Code works good!\n");
 	printf("Enter 2 numbers: \n");
 	scanf_s("%d", &num1);
 	scanf_s("%d", &num2);
