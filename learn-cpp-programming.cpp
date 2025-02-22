@@ -2,10 +2,13 @@
 //
 
 #include <iostream>
+#include "greater-less-than.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello World! This is my first program in C++, but I code in C, after I will code in C++\n";
+    int result = greaterOrless();
+    
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

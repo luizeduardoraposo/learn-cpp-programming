@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="learn-cpp-programming.cpp">
+    <ClCompile Include="greater-less-than.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="greater-less-than.cpp">
+    <ClCompile Include="learn-cpp-programming.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
